@@ -54,7 +54,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/fts_furuhashi/20190417_002.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/sakura/20200405_017.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
  
@@ -172,7 +172,7 @@ margin-left: 20px;
 </p>
 
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2020 !!!</marquee></span></h1>	
+<h1><span class="yellow"><marquee behavior="alternate">!!! Sakura in Japan 2020_Spring !!!</marquee></span></h1>	
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--

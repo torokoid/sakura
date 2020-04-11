@@ -174,7 +174,7 @@ margin-left: 20px;
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! Sakura in Japan 2020_Spring !!!</marquee></span></h1>	
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 -->
@@ -191,6 +191,7 @@ margin-left: 20px;
 <a href="20200411_010.JPG" data-lightbox="abc"><img src="20200411_010.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200411_011.JPG" data-lightbox="abc"><img src="20200411_011.JPG" alt="サンプル画像" width="800" /></a>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! Sakura !!!</marquee></span></h1>
 <a href="20200405_001.JPG" data-lightbox="abc"><img src="20200405_001.JPG" alt="サンプル画像" width="800" /></a>

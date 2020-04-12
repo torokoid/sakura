@@ -185,7 +185,7 @@ margin-left: 20px;
 <a href="20200412_003.JPG" data-lightbox="abc"><img src="20200412_003.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_004.JPG" data-lightbox="abc"><img src="20200412_004.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_005.JPG" data-lightbox="abc"><img src="20200412_005.JPG" alt="サンプル画像" width="800" /></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_WRym1p04Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/h_WRym1p04Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="20200412_006.JPG" data-lightbox="abc"><img src="20200412_006.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_007.JPG" data-lightbox="abc"><img src="20200412_007.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_008.JPG" data-lightbox="abc"><img src="20200412_008.JPG" alt="サンプル画像" width="800" /></a>

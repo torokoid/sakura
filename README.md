@@ -178,7 +178,7 @@ margin-left: 20px;
 <!--
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 -->
-<h1><span class="yellow"><marquee behavior="alternate">!!! ２０２０_04_12、Cycling !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2020_04_12、Cycling !!!</marquee></span></h1>
 <a href="20200412_001.JPG" data-lightbox="abc"><img src="20200412_001.JPG" alt="サンプル画像" width="800" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dDPQ2zRCAfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="20200412_002.JPG" data-lightbox="abc"><img src="20200412_002.JPG" alt="サンプル画像" width="800" /></a>

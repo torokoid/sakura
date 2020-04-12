@@ -178,13 +178,14 @@ margin-left: 20px;
 <!--
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 -->
-<h1><span class="yellow"><marquee behavior="alternate">!!! Cycling !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! ２０２０_04_12、Cycling !!!</marquee></span></h1>
 <a href="20200412_001.JPG" data-lightbox="abc"><img src="20200412_001.JPG" alt="サンプル画像" width="800" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dDPQ2zRCAfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="20200412_002.JPG" data-lightbox="abc"><img src="20200412_002.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_003.JPG" data-lightbox="abc"><img src="20200412_003.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_004.JPG" data-lightbox="abc"><img src="20200412_004.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_005.JPG" data-lightbox="abc"><img src="20200412_005.JPG" alt="サンプル画像" width="800" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h_WRym1p04Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="20200412_006.JPG" data-lightbox="abc"><img src="20200412_006.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_007.JPG" data-lightbox="abc"><img src="20200412_007.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_008.JPG" data-lightbox="abc"><img src="20200412_008.JPG" alt="サンプル画像" width="800" /></a>
@@ -201,7 +202,7 @@ margin-left: 20px;
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! Nanohana !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2020_04_11、Nanohana !!!</marquee></span></h1>
 <a href="20200411_001.JPG" data-lightbox="abc"><img src="20200411_001.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200411_002.JPG" data-lightbox="abc"><img src="20200411_002.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200411_003.JPG" data-lightbox="abc"><img src="20200411_003.JPG" alt="サンプル画像" width="800" /></a>
@@ -216,7 +217,7 @@ margin-left: 20px;
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! Sakura !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2020_04_03~05、Sakura !!!</marquee></span></h1>
 <a href="20200405_001.JPG" data-lightbox="abc"><img src="20200405_001.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200405_002.JPG" data-lightbox="abc"><img src="20200405_002.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200405_003.JPG" data-lightbox="abc"><img src="20200405_003.JPG" alt="サンプル画像" width="800" /></a>

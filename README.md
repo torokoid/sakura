@@ -180,7 +180,7 @@ margin-left: 20px;
 -->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2020_04_12、Cycling !!!</marquee></span></h1>
 <a href="20200412_001.JPG" data-lightbox="abc"><img src="20200412_001.JPG" alt="サンプル画像" width="800" /></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dDPQ2zRCAfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1200" src="https://www.youtube.com/embed/dDPQ2zRCAfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="20200412_002.JPG" data-lightbox="abc"><img src="20200412_002.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_003.JPG" data-lightbox="abc"><img src="20200412_003.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200412_004.JPG" data-lightbox="abc"><img src="20200412_004.JPG" alt="サンプル画像" width="800" /></a>

@@ -249,7 +249,6 @@ margin-left: 20px;
 <a href="20200403_005.JPG" data-lightbox="abc"><img src="20200403_005.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200403_006.JPG" data-lightbox="abc"><img src="20200403_006.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200403_007.JPG" data-lightbox="abc"><img src="20200403_007.JPG" alt="サンプル画像" width="800" /></a>
-<a href="20200403_008.JPG" data-lightbox="abc"><img src="20200403_008.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200403_009.JPG" data-lightbox="abc"><img src="20200403_009.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200403_010.JPG" data-lightbox="abc"><img src="20200403_010.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20200403_011.JPG" data-lightbox="abc"><img src="20200403_011.JPG" alt="サンプル画像" width="800" /></a>

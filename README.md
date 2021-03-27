@@ -170,7 +170,8 @@ margin-left: 20px;
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
-
+<p><a href="https://torokoid.github.io/sakura">Home</a>><a href="https://torokoid.github.io/sakura2">2021skaura</a></p>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年2月19日(金)安否確認会の記録＠Teams !!!</marquee></span></h1>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! Sakura in Japan 2020_Spring !!!</marquee></span></h1>	
 
